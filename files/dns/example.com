@@ -11,6 +11,9 @@ $ORIGIN example.com.
 gw           IN A         10.0.0.1
 puppet       IN A         10.0.0.5
 build        IN A         10.0.0.10
+phpmyadmin   IN A         10.0.0.11
+
+mysql        IN A         10.0.0.40
 
 ; 100-150 DHCP public range
 ; 200-210 DHCP reservations
