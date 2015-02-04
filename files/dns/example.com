@@ -18,6 +18,7 @@ mysql        IN A         10.0.0.40
 ; 100-150 DHCP public range
 ; 200-210 DHCP reservations
 
+tftp         IN A         10.0.0.251
 yumrepo      IN A         10.0.0.252
 dns          IN A         10.0.0.253
 dhcp         IN A         10.0.0.254
